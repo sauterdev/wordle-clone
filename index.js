@@ -1,17 +1,35 @@
 const keyboard = document.querySelector(".keyboard-area");
-let puzzleWord;
+const attemptArea = document.querySelector(".attempt-area");
+let puzzleWord = "";
 let attemptCount = 1;
 let letterCount = 0;
 let valid = false;
 let attemptArr = [];
-const randWord = fetch("https://random-word-api.herokuapp.com/word?length=5")
-  .then((res) => res.json())
-  .then((data) => {
-    puzzleWord = data[0].toUpperCase().split("");
-  })
-  .catch((err) => console.error(err));
 
-function buildKeyboard() {
+function getWord() {
+  fetch("https://random-word-api.herokuapp.com/word?length=5")
+    .then((res) => res.json())
+    .then((data) => {
+      puzzleWord = data[0].toUpperCase().split("");
+    })
+    .catch((err) => console.error(err));
+}
+
+function buildBoard() {
+  //builds attempt cells
+  for (let i = 1; i <= 6; i++) {
+    newRow = document.createElement("div");
+    newRow.className = "attempt";
+    for (let j = 1; j <= 5; j++) {
+      newCell = document.createElement("div");
+      newCell.classList.add("ls");
+      newCell.classList.add(`ls${i}-${j}`);
+      newRow.appendChild(newCell);
+    }
+    attemptArea.appendChild(newRow);
+  }
+
+  //builds keyboard
   const keyboardRows = document.querySelectorAll(".keyboard-row");
   const keyboardKeys = [
     ["Q", "W", "E", "R", "T", "Y", "U", "I", "O", "P"],
@@ -28,39 +46,73 @@ function buildKeyboard() {
     });
   }
 }
-buildKeyboard();
 
 function guessAttempt() {
+  //ensure 5 letters are entered
   if (letterCount < 5) {
     return;
   }
+  //validity check to ensure real word entered
   if (!valid) {
+    alert("not a real word");
     return;
   } else {
+    //compares to change tile colors and key board colors
     compare();
-    letterCount = 0;
     attemptCount++;
-    attemptArr = [];
+    letterCount = 0;
     valid = false;
+    checkWin();
+    attemptArr = [];
   }
 }
 
-function compare() {
-    attemptArr.map((ele, index) => {
-        if(puzzleWord[index] == ele) {
-            document.querySelector(`.ls${attemptCount}-${index + 1}`).classList.add("match");
-            document.querySelector(`#${ele}`).classList.add(`match`);
-        } else if (puzzleWord.includes(ele)) {
-            document.querySelector(`.ls${attemptCount}-${index + 1}`).classList.add("contains");
-            document.querySelector(`#${ele}`).classList.add(`contains`);
-        } else if (!puzzleWord.includes(ele)) {
-            document.querySelector(`#${ele}`).classList.add(`not-contains`);
-        }
-        
-        
-    })
+function checkWin() {
+  if (puzzleWord.join("") == attemptArr.join("")) {
+    alert("Got it!");
+    resets();
+  } else if (attemptCount >= 7) {
+    alert(`Loser! Secret word was ${puzzleWord.join("")}`);
+    resets();
+  }
 }
 
+function resets() {
+  //clears html for board rebuild to start without css class changes
+  attemptArea.innerHTML = "";
+  Array.from(document.getElementsByClassName("keyboard-row")).map(
+    (ele) => (ele.innerHTML = "")
+  );
+  //restart with fresh board, on 1st attempt and new word
+  buildBoard();
+  attemptCount = 1;
+  getWord();
+}
+
+//compares attempt with puzzleWord. Adds css properties based on matches and contains
+function compare() {
+  attemptArr.map((ele, index) => {
+    //check for contains and placement match
+    if (puzzleWord[index] == ele) {
+      document
+        .querySelector(`.ls${attemptCount}-${index + 1}`)
+        .classList.add("flip-match");
+      document.querySelector(`#${ele}`).classList.add(`match`);
+      //check for contains
+    } else if (puzzleWord.includes(ele)) {
+      document
+        .querySelector(`.ls${attemptCount}-${index + 1}`)
+        .classList.add("flip-contains");
+      document.querySelector(`#${ele}`).classList.add(`contains`);
+      //markes keyboard letters used and not in the word
+    } else if (!puzzleWord.includes(ele)) {
+      document
+        .querySelector(`.ls${attemptCount}-${index + 1}`)
+        .classList.add("flip-not");
+      document.querySelector(`#${ele}`).classList.add(`not-contains`);
+    }
+  });
+}
 
 //checks a 5 letter attempt against a dictionary API to see if it is a real word
 async function checkValidity() {
@@ -110,14 +162,16 @@ function addLetter(eventText) {
 
 //uses event listener on keyboard area to track which buttons are pressed based on IDs
 function selectLetter(event) {
-    console.log(event.target.className)
   if (event.target.innerText == "\u2190") {
     removeLetter();
   } else if (event.target.innerText == "ENTER") {
     guessAttempt();
   }
   //catches if current attempt line is full, or if a keyboard button is not hit
-  else if (!event.target.className.includes("key-button") || attemptArr.length >= 5) {
+  else if (
+    !event.target.className.includes("key-button") ||
+    attemptArr.length >= 5
+  ) {
     return;
   }
 
@@ -127,6 +181,8 @@ function selectLetter(event) {
   }
 }
 
+buildBoard();
+getWord();
 document
   .querySelector(".keyboard-area")
   .addEventListener("click", selectLetter);
