@@ -82,6 +82,14 @@ body {
   width: 50px;
 }
 
+.match {
+  background-color: green;
+}
+
+.contains {
+  background-color: goldenrod;
+}
+
 .not-contains {
   background-color: rgb(27, 26, 26);
 }
