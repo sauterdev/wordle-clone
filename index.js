@@ -12,6 +12,7 @@ const possWords = unique;
 function getWord(possWords) {
   let number = Math.floor(Math.random() * 928);
   puzzleWord = unique[number].toUpperCase().split("");
+  console.log(puzzleWord);
 }
 
 function buildBoard() {
@@ -69,11 +70,10 @@ function guessAttempt() {
 function checkWin() {
   if (puzzleWord.join("") == attemptArr.join("")) {
     alert("Got it!");
-    resets();
   } else if (attemptCount >= 7) {
     alert(`Loser! Secret word was ${puzzleWord.join("")}`);
     resets();
-  }
+  } 
 }
 
 function resets() {
