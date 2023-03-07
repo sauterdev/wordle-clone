@@ -1,3 +1,4 @@
+import { unique } from "./wordCollector.js";
 const keyboard = document.querySelector(".keyboard-area");
 const attemptArea = document.querySelector(".attempt-area");
 let puzzleWord = "";
@@ -5,23 +6,21 @@ let attemptCount = 1;
 let letterCount = 0;
 let valid = false;
 let attemptArr = [];
+const possWords = unique;
 
-function getWord() {
-  fetch("https://random-word-api.herokuapp.com/word?length=5")
-    .then((res) => res.json())
-    .then((data) => {
-      puzzleWord = data[0].toUpperCase().split("");
-    })
-    .catch((err) => console.error(err));
+//pulls random word from array of possible words filtered from book texts
+function getWord(possWords) {
+  let number = Math.floor(Math.random() * 928);
+  puzzleWord = unique[number].toUpperCase().split("");
 }
 
 function buildBoard() {
   //builds attempt cells
   for (let i = 1; i <= 6; i++) {
-    newRow = document.createElement("div");
+    const newRow = document.createElement("div");
     newRow.className = "attempt";
     for (let j = 1; j <= 5; j++) {
-      newCell = document.createElement("div");
+      const newCell = document.createElement("div");
       newCell.classList.add("ls");
       newCell.classList.add(`ls${i}-${j}`);
       newRow.appendChild(newCell);
@@ -127,7 +126,7 @@ async function checkValidity() {
   } catch (err) {
     console.error(err);
   }
-  if (confirmWord.title == "No Definitions Found") {
+  if (confirmWord.title === "No Definitions Found") {
     valid = false;
     return;
   }
