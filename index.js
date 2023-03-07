@@ -70,6 +70,7 @@ function guessAttempt() {
 function checkWin() {
   if (puzzleWord.join("") == attemptArr.join("")) {
     alert("Got it!");
+    resets();
   } else if (attemptCount >= 7) {
     alert(`Loser! Secret word was ${puzzleWord.join("")}`);
     resets();
