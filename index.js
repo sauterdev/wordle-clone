@@ -12,7 +12,6 @@ const possWords = unique;
 function getWord(possWords) {
   let number = Math.floor(Math.random() * 928);
   puzzleWord = unique[number].toUpperCase().split("");
-  console.log(puzzleWord);
 }
 
 function buildBoard() {
