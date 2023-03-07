@@ -79,3 +79,15 @@ body {
     font-size: smaller;
     width: 50px;
 }
+
+.match {
+    background-color: green;
+}
+
+.contains {
+    background-color: goldenrod;
+}
+
+.not-contains {
+    background-color: rgb(50, 49, 49);
+}
