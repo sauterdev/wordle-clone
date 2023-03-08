@@ -1,14 +1,9 @@
 let partOne = `VIRGIL'S TOMB.
-
-
 [Illustration: Virgil's Tomb.]
-
-
 This consecrated relic of genius stands on the hill of Posilipo, in the
 environs of Naples. Its recent state is so beautifully described by
 Eustace, that we shall not, like gipsys do stolen children, disfigure it
 to prevent recognition.
-
 Proceeding westward along the Chiaia and keeping towards the beach, says
 Eustace, we came to the quarter called Mergyllina. To ascend the hill of
 Posilipo we turned to the right, and followed a street winding as a
@@ -29,12 +24,8 @@ is yet ancient, was inscribed by the order of the Duke of Pescolangiano,
 then proprietor of the place, on a marble slab placed in the side of the
 rock opposite the entrance of the tomb, where it still remains. Every
 body is acquainted with it--
-
-
 Mantua me genuit, Calabri rapuere, tenet nunc Parthenope, cecini
 pascua, rura, duces.
-
-
 But there are authors who venture to assert, that the tomb of which we
 are now speaking, is not the sepulchre of Virgil. Of this number are the
 classic Addison and the laborious and accurate Cluverius. The authority
@@ -44,7 +35,6 @@ weakness of the arguments on which their opinion is grounded. These
 arguments may be found in Cluverius, and Addison merely expresses his
 opinion without entering into any discussion. They are drawn from a few
 verses of Statius.
-
 In opposition to these arguments, or rather conjectures founded upon the
 vague expressions of a single poet (a poet often censured for his
 obscurity), we have the constant and uninterrupted tradition of the
@@ -52,14 +42,12 @@ country supported by the authority of a numerous host of learned and
 ingenious antiquaries; and upon such grounds we may still continue to
 cherish the conviction, that we have visited the tomb of Virgil, and
 hailed his sacred shade on the spot where his ashes long reposed.
-
 The laurel which was once said to have sprung up at its base, and
 covered it with its luxuriant branches, now flourishes only in the
 verses of youthful bards, or in the descriptions of early travellers;
 myrtle, ivy and ilex, all plants equally agreeable to the genius of the
 place, and the subjects of the poet, now perform the office of the
 long-withered bays, and encircle the tomb with verdure and perfume.
-
 The sepulchre of Virgil, it may be imagined, must have long remained an
 object of interest and veneration, especially as his works had excited
 universal admiration even in his life-time, and were very soon after his
@@ -67,7 +55,6 @@ death put into the hands of children, and made a part of the rudiments
 of early education. Yet Martial declares that it had been neglected in
 his time, and that Silius Italicus alone restored its long forgotten
 honours.
-
 The reader will learn with regret that Virgil's tomb, consecrated as it
 ought to be to genius and meditation, is sometimes converted into the
 retreat of assassins, or the lurking place of Sbirri. Such at least it
@@ -83,25 +70,16 @@ of antiquity; but it is incumbent on the proprietor or the public, to
 secure them against such profanation. On the whole, few places are in
 themselves more picturesque, and from the recollection inseparably
 interwoven with it, no spot is more interesting than the tomb of Virgil.
-
 * * * * *
-
-
 LAST CHRISTMAS DAY.
-
 (_For the Mirror_.)
-
-
 "Say, if such blandishments did ever greet
 Thy charmed soul; hast thou not crav'd to die?
 Hast not thine immaterial seem'd but air
 Verging to sigh itself from thee, and share
 Beatitude? hast thou not watch'd thy breath
 In meek, faint hope, that soon 'twould sink in death?"
-
 _MS. Poem._
-
-
 Last Christmas Day! my heart leaps with joy at its very memory; it was a
 mental _Noel_, a Christmas of the soul, (if I may thus express myself.)
 That which I am about to relate of it is strictly true, and I do relate
@@ -148,23 +126,18 @@ adoration, and rapture on the blue expanse, varied by delicate vapours,
 sailing calmly, wondrously through it; and then occur to our memories
 spontaneously, the exquisite lines translated from a _morceau_, by
 Gluck, (a German poet;) and our hearts respond as each of us sighs:
-
-
 "There's peace and welcome in yon sea
 Of endless blue tranquillity.
 Those clouds are living things!
 I trace their veins of liquid gold,
 I see them solemnly unfold
 Their soft and fleecy wings!
-
 These be the angels that convey
 Us weary children of a day
 Life's tedious nothing o'er,
 Where neither passions come, nor woes
 To vex the genius of repose
 On death's majestic shore!"
-
-
 Then do our delighted eyes wander downward; then doth earth appear a
 glorious, though but a temporary palace, the gift of a gracious God to
 man! then do we feel an unaccountable assurance that angels visit the
@@ -212,67 +185,45 @@ themselves; the golden harps of heaven murmur in their entranced ears no
 longer; the smiles of the Sons of Peace fade from their enchanted sight;
 and the clouds of this nether world retain from their enamoured gaze,
 the treasures of infinity!
-
 Perhaps we have enjoyed a very enthusiastic, a very poetical, Christmas
 Day! we pretend not to deny it, though steadfastly believing it was
 neither an anti-Christian, nor an utterly unprofitable one; nay, we even
 venture to hope, that the beatitude of spirit just feebly portrayed was
 not unpleasing in His sight, unto whom, for His gift of immortal life,
 we upon Christmas Day render our peculiar thanksgivings!
-
 M.L.B.
-
 * * * * *
-
-
 THE FALL OF ZARAGOZA.
-
 (_For the Mirror_.)
-
-
 Awake, awake, the trumpet hath sung its lay to the sunny sky,
 And the glorious shout from Spanish lips gives forth its wild reply.
 Awake, awake, how the chargers foam, as to battle they dash on,
 Oh, Zaragoza, on this proud day, must thy walls be lost or won!
-
 His hand--the hand of the youthful chief was on his flashing sword,
 And his plume gleam'd white thro' the smoke and flame o'er the lofty
 city pour'd--
 And the banners around him darkly swept like the waves of a stormy sea,
 But Zaragoza, amid this strife, his heart was firm to thee.
-
 "Away, away, tread her walls to dust!"--the Gallic warriors cried
 "Defend, my bands, your hearth and home," the youthful chief replied.
 They caught the sound of this spirit-voice as they stay'd their foes'
 career,
 And many a thrilling cry was heard, when the bayonet met the spear
-
 In vain, ye heroes, do you breathe your latest vows to heaven,
 In vain is your devoted blood in the cause of Freedom given,
 For when the morn awakes again, your city shall not be
 The haunt of maids who warbled deep, their sweetest songs for ye!
-
 But the story of your hallow'd death shall not remain unsung,
 Oh, its record shall be glorified by many a minstrel tongue
 For Freedom's holy light hath touch'd each ruin'd shrine and wall,
 That sadly speak unto the heart of Zaragoza's fall.
-
 _Deal_.
-
 REGINALD AUGUSTINE.
-
 * * * * *
-
-
 THE BANQUETTING HOUSE, WHITEHALL.[1]
-
-
 [1] For a general description of this magnificent edifice, see
 MIRROR, No. 247.
-
 (_For the Mirror_.)
-
-
 Many persons who have visited this chapel may not have noticed or been
 aware of the splendid painted ceiling by Sir Peter Paul Rubens, which
 was executed by him when ambassador at the court of James I. This
@@ -283,7 +234,6 @@ is painted on canvass, and is in excellent preservation; the original
 painter had L3,000. for his labour; it has been retouched more than
 once, and the last time was by Cipriani, who had L2,000. for his
 repairs.
-
 Ralph, in his _Critical Review of Public Buildings_, observes, "that
 this picture is not so generally known as one could wish, but needs only
 to be known to be esteemed according to its merits;" and he further
@@ -291,7 +241,6 @@ adds, "it is but an ill decoration for a place of religious worship, for
 in the first place, its contents are nowise akin to devotion, and in the
 next, the workmanship is so very extraordinary that a man must have
 abundance of zeal or no taste, that can attend to anything besides."
-
 It is almost needless to remark, that it was from a passage broken for
 the occasion through the wall of this building, that the unfortunate
 Charles was conducted by the regicides to his death; this passage still
@@ -316,36 +265,23 @@ as they had always proved themselves to be, and desired it might be
 rivetted to the staff, which was accordingly done; and probably had it
 not been for this order the eagle might have escaped our valiant 87th,
 by whom it was taken on the heights of Barossa.
-
 On Maundy Thursday another gratifying ceremony takes place, _viz_, the
 distribution of the Maundy Money to as many poor people as the years
 of his majesty's age. This money consists of the smaller silver coins,
 being each in value from 1_d_. to 4_d_.; these are enclosed in a small,
 white kid bag, which is again enveloped in another of crimson leather.
-
 A.P.D.
-
 * * * * *
-
-
-
-
 RETROSPECTIVE GLEANINGS.
-
 * * * * *
-
 TOUCHING FOR THE KING'S EVIL.
-
 (_To the Editor of the Mirror_.)
-
-
 Having read an interesting paper from your ingenious correspondent
 _P.T.W._ in your number of the 14th of November, respecting "Touching
 for the Cure of the King's Evil," it occurred to me that some farther
 information relative to the original of that "hereditary miracle," as
 Mr. Collier is pleased to term it, might not be uninteresting to some
 of your readers: I therefore send you the following:--
-
 Stowe, in his _Annals_, accounts for the origin of touching for the
 evil, in the following manner:--"A young woman who was afflicted with
 this disorder in a very alarming manner, and to a most disgusting
@@ -361,21 +297,16 @@ of the cure, which was effected within a week." This is somewhat
 differently related in _Ailred's History of the Life and Miracles of
 Edward the Confessor_, an extract from which may be found in a note
 to the first volume of Rapin's _History of England_.
-
 The following curious advertisement was issued by the order of King
 Charles II. for healing the people, on the 18th of May, 1664.
-
 "Notice.
-
 "His sacred majesty having declared it to be his royal will and purpose
 to continue the healing of his people for the evil during the month of
 May, and then give over till Michaelmas next; I am commanded to give
 notice thereof, that the people may not come up to the town in the
 interim, and lose their labour."
-
 Thomas Mousewell was tried for high treason in 1684, for having spoken
 with contempt of King Charles's pretensions to cure the scrofula.
-
 In a manuscript account of the Restoration, written by Thomas Gumble,
 D.D. Chaplain to General Monck, in the year 1662, is the following
 description of the ceremony:--" There was a great chair placed for the
@@ -400,22 +331,16 @@ persons to receive them, concluding with a prayer, 'That Almighty God
 would bless the ceremony;' then, after the reverences as before, they
 retired. The Earls of Middlesex and St. Albans held the bason, ewer, and
 towel, whilst the king washed."
-
 Shakspeare, in his _Macbeth_, thus describes this royal, but now
 exploded gift:--
-
-
 "Strangely visited people,
 All swollen and ulcerous, pitiful to the eye,
 The mere despair of surgery, he cures--
 Hanging a golden stamp about their necks,
 Put on with holy prayers."
-
-
 In Nicholls's _Literary Anecdotes of the Eighteenth Century_, vol. ii.
 p. 495, 505, many curious particulars relating to this ceremony are to
 be found.
-
 As the custom has now for some time been discontinued, and the credulity
 of those who believed in its efficacy, laughed at, I hope it will not be
 long ere that disgusting custom of allowing persons (of whom women in
@@ -427,22 +352,14 @@ stop to; it being the very height of absurdity to imagine that it can be
 productive of any good effect; but on the contrary, tending to divest
 the minds of the surrounding multitude of that awe with which the
 ignominious spectacle should impress them.
-
 [Greek: S.G.]
-
 In the trifling paper I sent you respecting "Cats," which you deemed
 worthy of insertion in No. 398, you have it "by some merchants from the
 Island of Cyprus, who came hither for _fur_," it should be _tin_--Fur
 being an article of importation.
-
 * * * * *
-
-
 BOOKSELLERS' MARKS OR SIGNS.
-
 (_For the Mirror_.)
-
-
 Many books, especially those printed in the 17th century, have no other
 designation either of printer, bookseller, or even city, but merely
 marks or signs. The _anchor_ is the mark of Raphelengius, at Leyden; and
@@ -458,22 +375,11 @@ at Amsterdam and Leyden; the _bird between two serpents_, by the
 Frobeniuses, at Basil; the _truth_, by the Commelins, at Heidelberg and
 Paris; the _Saturn_, by Collinaeus; the _printing press_, by Badius
 Ascensius, &c.
-
 P.T.W.
-
 * * * * *
-
-
-
-
 THE NATURALIST.
-
 * * * * *
-
-
 DIFFERENT COLOURS OF THE EGGS OF BIRDS.
-
-
 It is a remarkable fact in the economy of nature, that of those birds
 whose nests are the most liable to discovery, and whose eggs are most
 exposed to observation from the form of the nests, the eggs are of that
@@ -515,13 +421,8 @@ birds lay such eggs; and building open nests, they almost invariably
 line the inside of them with materials of a harmonious colour with the
 eggs, so that no evident contrast is presented which would lead to their
 destruction.--_Companion to the Almanac._
-
 * * * * *
-
-
 EFFECTS OF SEA AIR.
-
-
 Those who frequent the sea-coast are not long in discovering that their
 best dyed black hats become of a rusty brown; and similar effects are
 produced on some other colours. The brown is, in fact, _rust_. Most, if
@@ -536,25 +437,15 @@ the strongest hold of the iron; but the incessant action of the sea-air,
 loaded with muriates, partially overcomes this, in the same way as any
 acid, even of inferior affinity to the gallic, when put upon black
 stuff, will turn it brown.--_Ibid._
-
 * * * * *
-
-
 THE DUGONG, THE MERMAID OF EARLY WRITERS.
-
-
 Of all the cetacea, that which approaches the nearest in form to man is
 undoubtedly the dugong, which, when its head and breast are raised above
 the water, and its pectoral fins, resembling hands, are visible, might
 easily be taken by superstitious seamen for a semi-human
 being.--_Edinburgh Journal._
-
 * * * * *
-
-
 SPIDERS.
-
-
 Live and grow without food. Out of fifty spiders produced on the last
 day of August, and which were kept entirely without food, three lived to
 the 8th of February following, and even visibly increased in bulk. Was
@@ -563,49 +454,32 @@ that they lived so long? Other spiders were kept in glass vessels
 without food, from the 15th of July till the end of January. During that
 time they cast their skins more than once, as if they had been well
 fed.--_Redi, Generat. Insect._
-
 Spiders are excellent barometers: if the ends of their webs are found
 branching out to any length, it is a sure sign of favourable weather:
 if, on the contrary, they are found short, and the spider does not
 attend to repairing it properly, bad weather may be expected.--_Times._
-
 * * * * *
-
-
 SWARMING OF BEES.
-
-
 The ingenious President of the Horticultural Society, Mr. T.A. Knight,
 has been led from repeated observation to infer, that, in the swarming
 of bees, not a single labourer emigrates without previously inspecting
 its proposed future habitation, as well as the temporary stations of
 rest where their numbers collect soon after swarming.--_Philosophical
 Magazine._
-
 * * * * *
-
-
 THE CHAMELEON'S ANTIPATHY TO BLACK.
-
-
 Whatever may be the cause, the fact seems to be certain, that the
 chameleon has an antipathy to things of a black colour. One, which
 Forbes kept, uniformly avoided a black board which was hung up in the
 chamber; and, what is most remarkable, when it was forcibly brought
 before the black board, it trembled violently, and assumed a black
 colour.--_Oriental Mem_.
-
 * * * * *
-
-
 RULES FOR THE WEATHER.
-
-
 A wet summer is always followed by a frosty winter; but it happens
 occasionally that the cold extends no farther. Two remarkable instances
 of this occurred in 1807-8 and 1813-14. With these exceptions, every
 frosty winter has been followed by a cold summer.
-
 The true cause of cold, or rather the direct cause, is to be found in
 the winter excess of west wind, every winter with excess of west wind
 being followed by a cold summer; and if there is no cold before, or
@@ -613,27 +487,16 @@ during a first excess, then a second excess of west wind in winter
 occasions a still colder summer than the first. It also appears, by
 repeated experience, that cold does not extend to more than two years at
 a time.
-
 Again, if the winter excess of east wind be great, in the first
 instance, the winters will be mild, and followed by mild summers; while
 the summer excess of east wind is itself, in the first instance, always
 mild; but uniformly followed by cold winters and cold summers, which
 continue, more or less, for one or two years, according to
 circumstances.--_Mackenzie, Syst. of the Weather_.
-
 * * * * *
-
-
-
-
 SPIRIT OF THE PUBLIC JOURNALS
-
 * * * * *
-
-
 PERIODICAL LITERATURE.
-
-
 Periodical Literature--how sweet is the name! 'Tis a type of many of the
 most beautiful things and events in nature; or say, rather, that _they_
 are types of _it_--both the flowers and the stars. As to flowers, they
@@ -655,7 +518,6 @@ their own ashes. So much for flowers--typifying or typified;--leaves
 emblematical of pages--buds of binding dew-veils of covers--and the
 wafting away of bloom and fragrance like the dissemination of fine
 feelings, bright fancies, and winged thoughts!
-
 The flowers are the periodicals of the earth--the stars are those of
 heaven. With what unfailing regularity do the Numbers issue forth!
 Hesperus and Lucifer! ye are one concern! The pole-star is studied by
@@ -670,7 +532,6 @@ circulation is incalculable; nor have we yet heard that Ministers intend
 instituting any prosecution against it. It is yet Free, the only free
 Power all over the world. 'Tis indeed like the air we breathe--if we
 have it not, we die!
-
 Look, then, at all our paper Periodicals with pleasure, for sake of the
 flowers and the stars. Suppose them all extinct, and life would be like
 a flowerless earth, a starless heaven. We should soon forget the seasons
@@ -697,29 +558,19 @@ bloom and burn on--flowers in which there is no poison, stars in which
 there is no disease--whose blossoms are all sweet, and whose rays are
 all sanative--both alike steeped in dew, and both, to the fine ear of
 nature's worshipper, bathed in music.
-
 Only look at Maga! One hundred and forty-eight months old! and yet
 lovely as maiden between frock and gown--even as sweet sixteen! Not a
 wrinkle on cheek or forehead! No crow-foot has touched her eyes--
-
-
 "Her eye's blue languish, and her golden hair!"
-
-
 Like an antelope in the wilderness--or swan on the river--or eagle in
 the sky. Dream that she is dead, and oh! what a world! Yet die she must
 some day--so must the moon and stars. Meanwhile there is a blessing in
 prayers--and hark! how the nations cry, "Oh! Maga, live for ever!"
-
 We often pity our poor ancestors. How they contrived to make the ends
 meet, surpasses our conjectural powers. What a weary waste must have
 seemed expanding before their eyes, between morning and night! Don't
 tell us that the human female never longs for other pastime than
-
-
 "To suckle fools and chronicle small beer."
-
-
 True, ladies sighed not then for periodicals--but there, in the depths
 of their ignorance, lay their utter wretchedness. What! keep pickling
 and preserving during the whole mortal life of an immortal being! Except
@@ -744,7 +595,6 @@ old dismal hall, is like a sign on a deserted Spittal; along with sables
 is worn a suitable stupidity by all the sad survivors.--And such, before
 the era of Periodicals, such was the life in--merry England. Oh!
 dear!--oh! dear me!
-
 We shall not enter into any historical details--for this is not a
 Monologue for the Quarterly--but we simply assert, that in the times we
 allude to (don't mention dates) there was little or no reading in
@@ -779,7 +629,6 @@ Bracelets--we still dine on Roast-beef, but with it, instead of
 Yorkshire pudding, a Scotch novel--Thomas Campbell and Thomas Moore
 sweeten tea for us--and in "Course of Time" we sup on a Welsh rabbit
 and a Religious Poem.
-
 We have not time--how can we?--to trace the history of the great
 revolution. But a great revolution there has been, from nobody's reading
 anything, to every body's reading all things; and perhaps it began with
@@ -808,28 +657,16 @@ not fed; on the contrary, we are in danger of being crammed; an empty
 head is as rare as an empty stomach; the whole day is one meal, one
 physical, moral, and intellectual feast; the Public goes to bed with a
 Periodical in her hand, and falls asleep with it beneath her pillow.
-
 What blockhead thinks now of reading Milton, or Pope, or Gray? Paradise
 Lost is lost; it has gone to the devil. Pope's Epistles are returned to
 the dead-letter office; the age is too loyal for "ruin seize thee,
 ruthless king," and the oldest inhabitant has forgotten "the curfew
 tolls."--_Blackwood's Magazine._
-
 * * * * *
-
-
-
-
 THE SELECTOR, AND LITERARY NOTICES OF _NEW WORKS._
-
 * * * * *
-
-
 DR. LARDNER'S CYCLOPAEDIA.
-
-
 _History of Scotland. By Sir Walter Scott, Bart._ Vol. I.
-
 The rapid and sketchy page just quoted from _Blackwood's Magazine_ will
 illustrate the high ground which periodical literature is daily
 attaining in this country. Of this ascendancy, the volume before us is
@@ -846,9 +683,7 @@ we remark upon the high qualifications of Sir Walter Scott, as an
 historian of Scotland. An extract shall speak for itself; and perhaps we
 cannot do better than select one of the battle-pieces, which has all the
 vividness of the finest historical painting: say
-
 BANNOCKBURN.
-
 "Robert Bruce summoned the array of his kingdom to rendezvous in the
 Tor-wood, about four miles from Stirling, and by degrees prepared the
 field of battle which he had selected for the contest. It was a space of
@@ -874,7 +709,6 @@ its ranges of cells. In these pits sharp stakes were strongly pitched,
 and the apertures covered with sod so carefully, as that the condition
 of the ground might escape observation. Calthrops, or spikes contrived
 to lame the horses, were also scattered in different directions.
-
 "Having led his troops into the field of combat, on the tidings of the
 English approach, the 23d of June, 1314, the King of Scotland ordered
 his soldiers to arm themselves, and making proclamation that those who
@@ -897,7 +731,6 @@ the greater part of whom he designed for executing a particular service.
 The followers of the camp were dismissed with the baggage, to station
 themselves behind an eminence to the rear of the Scottish army, still
 called the Gillies' (that is, the servants') hill....
-
 "On the morning of St. Barnaby, called the Bright, being the 24th of
 June, 1314, Edward advanced in full form to the attack of the Scots,
 whom he found in their position of the preceding evening. The Vanguard
@@ -917,14 +750,12 @@ Sir Giles de Argentine, a Knight of St. John of Jerusalem, who was
 accounted, for his deeds in Palestine and elsewhere, one of the best
 Knights that lived; and Sir Ingram Umfraville, an Anglicised
 Scottishman, also famed for his skill in arms.
-
 "As the Scottish saw the immense display of their enemies rolling
 towards them like a surging ocean, they were called on to join in an
 appeal to Heaven against the strength of human foes.--Maurice, the Abbot
 of Inchaffray, bare-headed and bare-footed, walked along the Scottish
 line, and conferred his benediction on the soldiers, who knelt to
 receive it, and to worship the power in whose name it was bestowed.
-
 "During this time the King of England was questioning Umfraville
 about the purpose of his opponents. "Will they," said Edward, "abide
 battle?"--"They assuredly will," replied Umfraville; "and to engage them
@@ -934,7 +765,6 @@ and observing the Scottish soldiers kneel down, joyfully exclaimed,
 "They crave mercy."--"It is from Heaven, not from your Highness,"
 answered Umfraville: "on that field they will win or die." The King
 then commanded the charge to be sounded, and the attack to take place.
-
 "The Earls of Gloucester and Hereford charged the Scots left wing, under
 Edward Bruce, with their men at arms; but some rivalry between these two
 great Lords induced them to hurry to the charge with more of emulation
@@ -952,13 +782,11 @@ This was done with a celerity and precision which dispersed the whole
 archery, who, having neither stakes nor other barrier to keep off the
 horse, nor long weapons to repel them, were cut down at pleasure, and
 almost without resistance.
-
 "The battle continued to rage, but with disadvantage to the English.
 The Scottish archers had now an opportunity of galling their infantry
 without opposition; and it would appear that King Edward could find no
 means of bringing any part of his numerous centre or rear-guard to the
 support of those in the front, who were engaged at disadvantage.
-
 "Bruce, seeing the confusion thicken, now placed himself at the head of
 the reserve, and addressing Angus of the Isles in the words, "My hope is
 constant in thee," rushed into the engagement followed by all the troops
@@ -988,7 +816,6 @@ killed. Two hundred Knights and seven hundred Esquires, of high birth
 and blood, graced the list of slaughter with the noblest names of
 England; and thirty thousand of the common file filled up the fatal
 roll.
-
 "Edward, among whose weaknesses we cannot number cowardice, was
 reluctantly forced from the bloody field by the Earl of Pembroke. The
 noble Sir Giles de Argentine considered it as his duty to attend the
@@ -1003,7 +830,6 @@ the governor, remonstrated against this rash step, reminding the
 unfortunate Prince that he was obliged by his treaty to surrender the
 castle next day, as not having been relieved according to the
 conditions.
-
 "Edward was therefore obliged to take the southern road; and he must
 have made a considerable circuit to avoid the Scottish army. He was,
 however, discovered on his retreat, and pursued by Douglas with sixty
@@ -1013,7 +839,6 @@ must have changed many friends into enemies, at length gained the castle
 of Dunbar, where he was hospitably received by the Earl of March. From
 Dunbar Edward escaped almost alone to Berwick in a fishing skiff, having
 left behind him the finest army a King of England ever commanded.
-
 "The quantity of spoil gained by the victors at the battle of
 Bannockburn was inestimable, and the ransoms paid by the prisoners
 largely added to the mass of treasure. Five near relations to the
@@ -1021,23 +846,16 @@ Bruce--namely, his wife, her sister Christian, his daughter Marjory,
 the Bishop of Glasgow (Wishart), and the young Earl of Mar, the King's
 nephew, were exchanged against the Earl of Hereford, High Constable of
 England.
-
 "The Scottish loss was very small: Sir William Vipont and Sir Walter
 Ross were the only persons of consideration slain. Sir Edward Bruce is
 said to have been so much attached to the last of these knights as to
 have expressed his wish that the battle had remained unfought, so Ross
 had not died."
-
 The present volume contains 350 pages, in a very pleasing type, and a
 vignette title; and the style in which it is produced is uniformly
 worthy of the very responsible quarter whence it emanates.
-
 * * * * *
-
-
 THE YOUNG LADY'S BOOK.
-
-
 This is indeed a _golden gift_ for any _demoiselle_ of our readers'
 acquaintance, for it blends the unusual qualities of elegance and
 usefulness of the highest order. It is described in the title as "A
@@ -1061,7 +879,6 @@ individual contribution; for the lady-pen must be omnipotent indeed
 which could write equally well on every branch of female accomplishment.
 By way of a seasonable extract we take part of a brief historical sketch
 prefixed to the Dancing instructions, and a few of the hints:--
-
 "From the death of Elizabeth, until after the restoration of Charles
 II., the turbulence of the times, and the peculiar character of the age,
 prevented this art, which flourishes only in 'the bowers of peace and
@@ -1074,7 +891,6 @@ in various other respects since the time of that singular person. It is,
 nevertheless, a matter of regret, that the graceful and stately Minuet
 has been entirely abandoned in favour of the more recently-invented
 dances.
-
 "The French country dances, or Contre-Danses (from the parties being
 placed opposite to each other,) since called Quadrilles (from their
 having four sides) which approximate nearly to the Cotillon, were
@@ -1125,7 +941,6 @@ L'Ete, La Poule, La Trenis, &c. which were given to the tunes, have been
 applied to the figures. The figure of La Trenis, was introduced by
 Monsieur Trenis's desire, it being part of the figure from a Gavotte,
 danced in the then favourite ballet of Nina.
-
 "To the French we are indebted for rather an ingenious, but in the
 opinion of many professional dancers, an useless invention, by which it
 was proposed, that as the steps in dancing are not very numerous,
@@ -1142,7 +957,6 @@ dancing-master has also, we believe, with considerable labour and
 ingenuity, devised a plan somewhat similar to that of the French author:
 diagrams being proposed to represent the figures, or steps, instead of
 characters.
-
 "There are a variety of dances to which the term National may, with some
 propriety, be applied. Among the most celebrated of these are,--the
 Italian Tarantula, the German Waltz, and the Spanish Bolero. To dwell on
@@ -1154,7 +968,6 @@ encountered, on its first introduction, seem to have been gradually
 overcome, since it assumed its present popular form; and the graceful
 Bolero is restricted to the theatre only, being never introduced to the
 English ball-room.
-
 "The manner of walking well is an object which all young ladies should
 be anxious to acquire; but, unfortunately, it is a point too much
 neglected. In the drawing-room, the ball-room, or during the promenade,
@@ -1173,7 +986,6 @@ parents and heads of seminaries, is much to be deprecated. The stiffness
 acquired under regimental tuition, is adverse to all the principles of
 grace, and annihilates that buoyant lightness which is so conducive to
 ease and elegance in the young."
-
 Besides the host of cuts incorporated with the text, each art has a
 whole page embellishment exquisitely engraved on wood; the designs of
 which are the very acme of taste. The head and tail, and letter pieces
@@ -1184,16 +996,10 @@ been erroneously noticed, from its publication at this season, as an
 "Annual," but it displays infinitely more pains-taking than either of
 those elaborate productions--and is, we should judge, neither the labour
 of one or two years.
-
 We had almost overlooked the imitative Mechlin lace-facings, which would
 deceive any Nottingham factor.
-
 * * * * *
-
-
 THE ZOOLOGICAL KEEPSAKE.
-
-
 The design of this "Annual" is good, we may say, very good; but we are
 alike bound to confess that the execution falls short of the idea. It
 contains an account of the Gardens and Museum of the Zoological Society,
@@ -1201,15 +1007,9 @@ but this is too much interlarded with digressions. All the introductory
 matter might have been omitted with advantage to the author as well as
 the public. The descriptions are divided by poetical pieces, which serve
 as _reliefs_, one of which we extract:--
-
-
 THE LOST LAMB; OR, THE CHILD SAVED.
-
 BY H.C. DEAKIN, ESQ.
-
 _Author of "Portraits of the Dead."_
-
-
 Morn rose upon the purple hills,
 In all his pomp display'd;
 Flash'd forth like stars a hundred rills,
@@ -1218,7 +1018,6 @@ The foaming mist, day's chilly shrine,
 Into the clouds upcurl'd,
 Forth broke in majesty divine
 The Grampians' giant world.
-
 It was a glorious sight to view
 Those mountain forms unfold,--
 The Heavens above intensely blue,
@@ -1227,7 +1026,6 @@ Day woke, a thousand songs arose,
 Morn's orisons on high,
 Earth's universal heart o'erflows
 To Him beyond the sky.
-
 The shepherd roused him from his sleep,
 And down the vale be hied,
 Like guardian good, to count his sheep,
@@ -1236,7 +1034,6 @@ His firstling! 'twas his only child--
 A boy of three years old,
 The father's weary hours beguiled
 Whilst watching o'er his fold.
-
 And many an hour the child and he
 Joy'd o'er the vale together;
 It was a lovely thing to see
@@ -1245,7 +1042,6 @@ The vale is pass'd, the mountains rear
 Their rugged cliffs in air,
 He must ascend to view more near
 His distant fleecy care.
-
 "My child! the flowers are bright for thee,
 The daisy's pearl'd with dew;
 Go, share them with the honey-bee,
@@ -1254,7 +1050,6 @@ Thy dog and mine with thee shall stay
 Whilst I the flock am counting,"--
 He said, and took his tedious way,
 The hilly green sward mounting.
-
 O'er crag and cliff the father toil'd,
 Unconscious pass'd the hours:
 He for a time forgot the child
@@ -1263,7 +1058,6 @@ The boiling clouds come down and veil
 Valley, and wood, and plain;
 Then fears the father's heart assail,
 He will descend again.
-
 Morn melted into noon, and night
 Dark on the shepherd shone,
 Terror in vain impels his flight,
@@ -1272,7 +1066,6 @@ He calls upon his darling's name,
 His dog in vain he calls;
 He hears naught but the eagle's scream,
 Or roar of waterfalls.
-
 He rushes home--he is not there--
 With agony and woe;
 He hunts him in the cold night air,
@@ -1281,7 +1074,6 @@ Morn rose--the faithful dog appears,
 He whines for food so mild,
 The father hied him through his tears,
 And said, "Tray, where's my child?"
-
 Thrice rose the morn--the father's heart
 With grief was almost dead;
 But every morn the dog appeared,
@@ -1290,7 +1082,6 @@ Yet through the night and through the day,
 The dog was never seen--
 "He is not wont to stay away,
 Where can the dog have been?"
-
 On the fourth morn this faithful friend,
 As usual whined for meat--
 They mark the way his footsteps tend,
@@ -1299,7 +1090,6 @@ They watch him to a cave beside
 The Grampians' craggy base--
 Behold! the shepherd's wandering child
 Within the dog's embrace.
-
 He springs--he weeps away his cares,
 He cries aloud with joy--
 He kneels, he sobs to heaven his prayers,
@@ -1308,8 +1098,6 @@ Then, turning, hugs his favourite hound,
 The trusty, true, and bold,
 By whom was saved, through whom was found
 The _firstling_ of his fold!
-
-
 The Engravings, which are very numerous, are exclusively on wood. A few
 of them are views in the Regent's Park Gardens; but in point of
 execution, we think the best is a Portrait of the Satyr, or "_Happy_
@@ -1319,41 +1107,24 @@ sitting in a chair, smoking a pipe, and drinking spirits and water, and
 appearing to understand every look, word, and action of his keeper;
 indeed, so thoroughly contented is the creature, that he has obtained
 the name of "Happy Jerry."
-
 To speak _zoologically_, next year we hope the artist and editor will
 put their best feet foremost, and improve upon the present volume. The
 design is one of the best for a Juvenile Annual--for who does not
 recollect the very amusing game of "Birds, Beasts, and Fishes, and
 sometimes Insects and Reptiles." What a menagerie of guessing novelties
 would have been a _Zoological Keepsake_ in our school days.
-
 * * * * *
-
-
-
-
 THE GATHERER.
-
 A snapper up of unconsidered trifles.
 SHAKSPEARE.
-
 * * * * *
-
-
 SPILLING THE SALT.
-
-
 It is a curious fact, though not generally known, that the popular
 superstition of overturning the salt at table being unlucky, originated
 in a picture of the Last Supper, by Leonardo da Vinci, in which Judas
 Iscariot is represented as overturning the salt.
-
 * * * * *
-
-
 KANGAROOS.
-
-
 "I have been much entertained during my wanderings through the country
 adjoining this town, in observing the singular habits and extreme
 sagacity of the kangaroos. I have noticed several who carried in their
@@ -1364,13 +1135,8 @@ appendages, which she soon dropped and escaped: it was formed of a large
 bough, over which some large leaves were spread, and fastened on simply
 by the shoots of the bough sticking into the leaf."--_From a letter
 dated Hobart's Town, February_, 1829.
-
 * * * * *
-
-
 THE EARL OF MANSFIELD.
-
-
 "When he was at Westminster School, Lady Kinnoul, in one of the
 vacations, invited him to her home, where, observing him with a pen in
 his hand, and seemingly thoughtful, she asked him if he was writing his
@@ -1381,46 +1147,28 @@ question, and did not expect from a school-boy such a pert answer.' The
 reply was, 'Indeed, my Lady, I can only answer once more, 'What is that
 to you?' In reality the theme was--_Quid ad te pertinet!"--From
 Holliday's Life of the Earl of Mansfield_.
-
 * * * * *
-
-
 "IN SPITE OF HIS TEETH."
-
-
 King John once demanded of a certain Jew ten thousand marks, on refusal
 of which, he ordered one of the Israelite's teeth to be drawn every day
 till he should consent. The Jew lost seven, and then paid the required
 sum. Hence the phrase--"In spite of his teeth."
-
 * * * * *
-
-
 SWAN RIVER.
-
-
 A gentleman who had just arrived in town met an Hibernian friend, and
 with anxious solicitude asked him "where the best bed was to be got?"
 "By my soul," said the Emeralder, with a Kilmainham look, "I'm tould at
 the _Swan River_, where there's nothing but _down_."
-
 W.C.R.R.
-
 * * * * *
-
-
 SIAMESE YOUTHS.
-
-
 QUERY.--Would not the _law_ be the most profitable profession for the
 Siamese Youths? They might plead _pro_ and _con_, and take _fees_ from
 _plaintiff_ and _defendant_. If raised to the Bench, they might receive
 the salary of _one_ Judge, but act as _two_, thereby saving the nation
 some money in these _hard_ times of _cash_ payments, and please all
 parties, _one_ summing up for plaintiff and the _other_ for defendant.
-
 P.T.W.
-
 N.B. They appear very good natured, although they _huffed_ me _twice_ at
 draughts.
 " to heaven, saying, "Of a truth there is no power but from Allah! But,
@@ -1437,14 +1185,12 @@ were fastened, he saw with astonishment his old ass offered for sale.
 Putting his mouth to its ear, he whispered, "Woe to thee, unlucky!
 Doubtless thou hast again been intoxicated; but, by Allah, I will never
 buy thee!"
-
 Another noodle-story, of a different class, in the _Arabian
 Nights_, may be here cited in full from Sir R.F. Burton's
 translation of that delightful work, privately printed for the
 subscribers, and it will serve, moreover, as a fair specimen of the
 admirable manner in which that ripe scholar has represented in English
 the quaint style of his original:
-
 [Quoth one of the learned,] I passed once by a school wherein a
 schoolmaster was teaching children; so I entered, finding him a
 good-looking man, and a well-dressed, when he rose to me and made me sit
@@ -1478,24 +1224,19 @@ myself, "This is another proof positive." Then I said to him, "And how
 couldst thou fall in love with one thou hast never seen?" He replied,
 "Know that I was sitting one day at the window, when, lo! there passed
 by a man, singing the following distich:
-
 "'Umm Amr', thy boons Allah repay!
 Give back my heart, be't where it may!'"
-
 The schoolmaster continued, "When I heard the man humming these words as
 he passed along the street, I said to myself, 'Except this Umm Amru were
 without equal in the world, the poets had not celebrated her in ode and
 canzon.' So I fell in love with her; but two days after, the same man
 passed, singing the following couplet:
-
 "'Ass and Umm Amr' went their way,
 Nor she nor ass returned for aye.'
-
 Thereupon I knew that she was dead, and mourned for her. This was three
 days ago, and I have been mourning ever since." So I left him and fared
 forth, having assured myself of the weakness of the gerund-grinder's
 wit[2].
-
 Here, surely, was the very Father of Folly, but what shall we say of
 judges and magistrates being sometimes (represented as) equally witless?
 Thus we are told, among the cases decided by a Turkish Kazi, that two
@@ -1508,12 +1249,10 @@ did was to fall backwards and break his head. Wrapping a cloth round his
 head, he returned to court, and the two men coming in again presently,
 he thus decided the question: "No man can bite his own ear, but in
 trying to do so he may fall down and break his head."
-
 A Sinhalese story, which is also well known in various forms in India,
 furnishes a still more remarkable example of forensic sagacity. It is
 thus related by the able editor of _The Orientalist_, vol. i., p.
 191:
-
 One night some thieves broke into the house of a rich man, and carried
 away all his valuables. The man complained to the justice of the peace,
 who had the robbers captured, and when brought before him, inquired of
@@ -1544,7 +1283,6 @@ the fact that there was a fat Moorman in a shop opposite, who was a much
 fitter subject for an execution, and asked that he might be hanged in
 the goldsmith's stead. The learned judge, considering that this
 arrangement would be very satisfactory, gave judgment accordingly.
-
 If some of the last-cited stories are not precisely Gothamite
 drolleries, though all are droll enough in their way, there can be no
 doubt whatever that we have a Sinhalese brother to the men of Gotham in
@@ -1559,9 +1297,7 @@ year's food, and finding he had only enough for eleven months, concluded
 it was better to fast the other month right off, which he did
 accordingly; but he died just before the month was completed, leaving
 eleven months' rice in his house.
-
 * * * * *
-
 The typical noodle of the Turks, the Khoja Nasru-'d-Din, is said to have
 been a subject of the independent prince of Karaman, at whose capital,
 Konya, he resided, and he is represented as a contemporary of Timur
@@ -1574,7 +1310,6 @@ his arms and said, "Like that? Is that large enough?" On her replying in
 the affirmative he ran off to the bazaar, with his arms still stretched
 out, and meeting a man on the road, he bawled to him, "Look where you
 are going, O man, or you will cause me to lose my measure!"
-
 Another day the Khoja's wife washed his caftan and spread it upon a tree
 in the garden of the house. That night the Khoja goes out, and thinks he
 sees in the moonlight a man motionless upon a tree in the garden. "Give
@@ -1583,7 +1318,6 @@ shot the caftan, piercing it through and through, and then returned into
 the house. Next morning, when he discovered that it was his own caftan
 he had shot at, he exclaimed, "By Allah, had I happened to be in it, I
 should have killed myself!"
-
 The Ettrick Shepherd's well-known story of the two Highlanders and the
 wild boar has its exact parallel in the Turkish jest-book, as follows:
 One day the Khoja went with his friend Sheragh Ahmed to the den of a
@@ -1595,7 +1329,6 @@ in her struggles cast up a great dust into the eyes of Ahmed, who called
 out to the Khoja, "Hallo! what does all this dust mean?" The Khoja
 replied, "If the wolf's tail breaks, you will soon know what the dust
 means!"
-
 Several of the jests closely resemble "Joe Millers" told of Irishmen,
 such as this: It happened one night, after the Khoja and a guest had
 lain down to sleep, that the taper went out. "O Khoja Effendi," said the
@@ -1607,7 +1340,6 @@ immediately and seated himself on the border of a fountain. Said the
 people to him, "O Khoja, what have you come here to look for in such a
 hurry?" The Khoja replied, "The thief will certainly come here to drink
 as soon as he has eaten my salted cheese; I always do so myself."
-
 And here is one of the Gothamite class: One evening the Khoja went to
 the well to draw water, and seeing the moon reflected in the water, he
 exclaimed, "The moon has fallen into the well; I must pull it out." So
@@ -1616,7 +1348,6 @@ whereupon he exerted all his strength, and the rope broke, and he fell
 upon his back. Looking into the sky, he saw the moon, and cried out
 joyfully, "Praise be to Allah! I am sorely bruised, but the moon has got
 into its place again."
-
 There is a well-worn jest of an Irishman who, being observed by a friend
 to look exceedingly blank and perplexed, was asked what ailed him. He
 replied that he had had a dream. "Was it a good or a bad dream?"
@@ -1629,22 +1360,18 @@ mind if I took a drop of punch. 'Cold or hot?' says his Holiness. 'Hot,
 your Holiness,' says I. So on that he steps down to the kitchen for the
 boiling water, but, bedad, before he came back, I woke straight up; and
 now it's distressing me that I didn't take it cold!"
-
 We have somewhat of a parallel to this in a Turkish jest: The Khoja
 dreamt that some one gave him nine pieces of money, but he was not
 content, and said, "Make it ten." Then he awoke and found his hands
 empty. Instantly closing his eyes again, and holding out his hand, he
 said, "I repent; give me the nine pieces[3]."
-
 But the Chinese relate the very counterpart of our Irishman's story. A
 confirmed drunkard dreamt that he had been presented with a cup of
 excellent wine, and set it by the fire to warm[4], that he should better
 enjoy the flavour of it; but just as he was about to drink off the
 delicious draught he awoke. "Fool that I am," he cried, "why was I not
 content to drink it cold?"[5]
-
 * * * * *
-
 The Chinese seem to have as keen a sense of humour as any other people.
 They tell a story, for instance, of a lady who had been recently
 married, and on the third day saw her husband returning home, so she
@@ -1668,9 +1395,7 @@ lightning-stick of Tchew-Koung, a glazed cup of the time of the Emperor
 Cheun, and the mat of Confucius; and being reduced to beggary, he
 carried these spurious relics about with him, and said to the people in
 the streets, "Sirs, I pray you, give me some coins struck by Tai-Koung."
-
 * * * * *
-
 Indian fiction abounds in stories of simpletons, and probably the oldest
 extant drolleries of the Gothamite type are found in the _Jatakas_,
 or Buddhist Birth-stories. Assuredly they were own brothers to our mad
@@ -1687,7 +1412,6 @@ very easy to gather the dates of a palm which had fallen down of itself,
 they set to work and cut down all the date-palms in their village, and
 having gathered from them their whole crop of dates, they raised them up
 and planted them again, thinking they would grow.
-
 In illustration of the apothegm that "fools who attend only to the words
 of an order, and do not understand the meaning, cause much detriment,"
 is the story of the servants who kept the rain off the trunks: The camel
@@ -1708,7 +1432,6 @@ to keep the rain off the leather of the trunks. What fault have we
 committed?" He answered, "I told you that if the leather got wet the
 clothes would be spoiled. I told you so in order to save the clothes,
 not the leather."
-
 The story of the servant who looked after the door is a farther
 illustration of the same maxim. A merchant said to his foolish servant,
 "Take care of the door of my shop; I am going home for a short time."
@@ -1716,7 +1439,6 @@ After his master was gone, the fool took the shop-door on his shoulder
 and went off to see an actor perform. As he was returning his master met
 him, and gave him a scolding, and he answered, "I have taken care of
 this door, as you told me."
-
 This jest had found its way into Europe three centuries ago. It is
 related of Giufa, the typical Sicilian booby, and probably came to
 England from Italy. This is how it is told in the _Sacke Full of
@@ -1733,7 +1455,6 @@ door?' 'Marry, mistresse,' qd he, 'you bad me pull the doore after me.'
 the doore after thee, and not bring it upon thy back after me.' But
 after this there was much good sport and laughing at his simplicity and
 foolishnesse therein."
-
 In the capacity of a merchant the simpleton does very wonderful things,
 and plumes himself on his sagacity, as we have already seen in the case
 of the Arab and his cow. And here are a brace of similar stories: A
@@ -1750,7 +1471,6 @@ from him, because it was not properly cleaned. In the meanwhile he saw
 in the bazaar a goldsmith selling gold which he had purified by heating
 it, and he saw it taken by a customer. Seeing that, he threw his cotton
 into the fire in order to purify it, and it was all burned to ashes.
-
 There must be few who have not heard of the Irishman who was hired by a
 Yarmouth maltster to help in loading a ship. As the vessel was about to
 sail, the Irishman cried out from the quay, "Captain, I lost your shovel
@@ -1764,7 +1484,6 @@ As he was recrossing the sea, he saw the eddies and other signs, and
 thinking he recognised the spot, he plunged into the water again and
 again, to recover his cup, but he only got well laughed at for his
 pains.
-
 We have an amusing commentary on the maxim that "distress is sure to
 come from being in the company of fools" in the following, from the
 Canarese story-book entitled _Kathe Manjari_: A foolish fellow
@@ -1781,7 +1500,6 @@ speak in that way, and want to know whether it is good or bad? Look--
 there is a shopkeeper in that tree," pointing with his finger--"show it
 to him." Then the thieves went up to the shopkeeper and robbed him of
 two hundred pagodas.
-
 In our next story, of the villagers who ate the buffalo, is exemplified
 the fact that "fools, in the conceit of their folly, while they deny
 what need not be denied, reveal what it is their interest to suppress,
@@ -1807,7 +1525,6 @@ is true that we ate his buffalo, but all the rest that he alleges is
 false." When the king heard this, he and his courtiers could not
 restrain their laughter; but he restored the price of the buffalo to the
 man, and fined the villagers.
-
 But sometimes even kings have been arrant noodles, and their credulity
 quite as amusing--or amazing--as that of their subjects. Once on a time
 there was a king who had a handsome daughter, and he summoned his
@@ -1823,7 +1540,6 @@ that they were engaged in procuring the medicine; and when she was grown
 up, they presented her to the king, saying that she had been made to
 grow by the preparation; so the king was highly pleased, and gave them
 much wealth.
-
 Between an Indian raja and an Indian dhobie, or washerman, there is the
 greatest possible difference socially, but individually--when both are
 noodles--there may be sometimes very little to choose; indeed, of the
@@ -1848,7 +1564,6 @@ washerman was so impatient that he went to the teacher several times
 before the day appointed, and was informed that the foal was beginning
 to learn manners, that its ears were already become very much shorter,
 and, in short, that it was making satisfactory progress.
-
 It happened, when the day came on which he was to receive his young ass
 transformed into a fine, well-educated boy, the simpleton was kept busy
 with his customers' clothes, but on the day following he found time to
@@ -1872,7 +1587,6 @@ out, "Khoor! khoor! khoor!" as he used to do in calling his donkeys,
 thinking this would induce the kazi to come to him. But, instead of
 this, he was seized by the kazi's order and locked up for creating a
 disturbance.
-
 When the business of the court was over, the kazi, pitying the supposed
 madman, sent for him to learn the reason of his strange behaviour, and
 in answer to his inquiries the simpleton said, "You don't seem to know
@@ -1886,7 +1600,6 @@ with laughter: such a "case" was never heard of before. But the kazi,
 seeing how the mullah had taken advantage of the poor fellow's
 simplicity, gave him a present of a hundred rupis, besides sufficient
 for the expenses of his journey home, and so dismissed him.
-
 A party of rogues once found as great a blockhead in a rich Indian
 herdsman, to whom they said, "We have asked the daughter of a wealthy
 inhabitant of the town in marriage for you, and her father has promised
@@ -1899,7 +1612,6 @@ his remaining wealth; but the next day, when he began to lament, saying,
 "I am longing to see my son," the people laughed at him on account of
 his having been cheated by the rogues, as if he had acquired the
 stupidity of cattle from having so much to do with them.
-
 It is not generally known that the incident which forms the subject of
 the droll Scotch song "The Barring of the Door," which also occurs in
 the _Nights_ of Straparola, is of Eastern origin. In an Arabian
@@ -1940,7 +1652,6 @@ him!" "Oh, oh," exclaimed the husband, overjoyed and clapping his hands,
 "you have lost the wager; go and shut the door." He then explained the
 whole affair to the police officer, who shrugged his shoulders and went
 away.[6]
-
 A party of noodles are substituted for the husband and wife in a Turkish
 version of the tale, in the _History of the Forty Vazirs. _ Some
 bang-eaters,[7] while out walking, found a sequin. They said, "Let us go
@@ -1971,7 +1682,6 @@ bang-eaters heard him make that noise, they said, "Rise, fasten the
 door." He replied, "After loss, attention! Now that the food is gone,
 and my lip is wounded, what is the use of shutting that door?" and
 crying, "Woe! alas!" they each went in a different direction.[8]
-
 A similar story is known in Kashmir: Five friends chanced to meet, and
 all having leisure, they decided to go to the bazaar and purchase a
 sheep's head, and have a great feast in the house of one of the party,
@@ -2003,10 +1713,8 @@ sound; but when the blows repeatedly fell on the same wounded parts, he
 could endure no longer, and cried out, "Oh! oh! Why do you beat me?
 Enough, enough! Is it not enough that the sheep's head has been
 spoiled?"
-
 His four associates now cried out, "Go to the bazaar and fetch the
 butter."[9]
-
 There is quite as droll a version current among the people of Ceylon, to
 the following effect: A gentleman once had in his employment twenty-five
 idiots. In the old times it was customary with Sinhalese high families
@@ -2036,7 +1744,6 @@ sharply by accident against the leg of one of the idiots, who then
 involuntarily moaned. Thereupon all the others exclaimed, "You were the
 first to utter a sound; therefore from henceforth you must take upon
 yourself the duty of providing the plantain leaves."[10]
-
 It has already been remarked that a literary Italian version of the
 Silent Couple is found in the _Nights_ of Straparola, but there are
 other variants orally current among the common people in different parts
@@ -2069,7 +1776,6 @@ earnest, seized the shoemaker's head, and was going to cut it off. When
 his wile saw that, she cried out, "Ah, don't, for mercy's sake!" "Good!"
 exclaimed her husband, "good! Now you go and carry the pan back to my
 godmother, and I will go and cut the horse's girth."
-
 In a Sicilian version the man and wife fry some fish, and then set about
 their respective work--shoemaking and spinning--and the one who finishes
 first the piece of work begun is to eat the fish. While they are singing
@@ -2077,18 +1783,14 @@ and whistling at their work, a friend comes along, who knocks at the
 door, but receives no answer. Then he enters and speaks to them, but
 still no reply. Finally, in anger, he sits down at the table, and eats
 up all the fish himself.[11]
-
 Thus, it will be observed, the droll incident which forms the subject of
 the old Scotch song of "The Barring of the Door" is of world-wide
 celebrity.
-
 * * * * *
-
 Gothamite stories appear to have been familiar throughout Europe during
 the later Middle Ages, if we may judge from a chapter of the _Gesta
 Romanorum_ in which the monkish compiler has curiously "moralised"
 the actions of three noodles:
-
 We read in the "Lives of the Fathers" that an angel showed to a certain
 holy man three men labouring under a triple fatuity. The first made a
 faggot of wood, and because it was too heavy for him to carry, he added
@@ -2106,9 +1808,7 @@ bear the weight of those which they already have. The second man
 represents those who do good, but do it sinfully, and therefore it is of
 no benefit. And the third person is he who would enter the kingdom of
 heaven with all his world of vanities, but is cast down into hell."
-
 * * * * *
-
 And now a few more Indian and other stories of the Gothamite class to
 conclude the present section. In Malava there were two Brahman brothers,
 and the wealth inherited from their father was left jointly between
@@ -2132,7 +1832,6 @@ the Irishman who was riding on an ass one fine day, when the beast, by
 kicking at the flies that annoyed him, got one of its hind feet
 entangled in the stirrup, whereupon the rider dismounted, saying,
 "Faith, if you're going to get up, it's time I was getting down."
-
 The poet Ovid alludes to the story of Ino persuading the women of the
 country to roast the wheat before it was sown, which may have come to
 India through the Greeks, since we are told in the _Katha Sarit
@@ -2142,33 +1841,26 @@ seeds, hoping that similar ones would come up. The story also occurs in
 Coelho's _Contes Portuguezes_, and is probably of Buddhistic
 origin. And an analogous story is told of an Irishman who gave his hens
 hot water, in order that they should lay boiled eggs!
-
 FOOTNOTES:
-
 [1] This notion, that schoolmasters "lack wit," however absurd, seems to
 have been entertained from ancient times, and to be still prevalent in
 the East; the so-called jests of Hierokles are all at the expense of
 pedants; and the Turkish typical noodle is Khoja _(i.e.,_ Teacher)
 Nasru-'d-Din, some of whose "witless devices" shall be cited presently.
-
 [2] _Elf Laylawa Layla_, or, The Book of a Thousand Nights and a
 Night. Translated, with Introduction, Notes on the Manners and Customs
 of Moslem Men, and a Terminal Essay on the History of _The Nights_,
 by R.F. Burton. Vol. v.
-
 [3] The Khoja, however, was not such a fool as we might conclude from
 the foregoing examples of his sayings and doings; for, being asked one
 day what musical instrument he liked best, he answered, "I am very fond
 of the music of plates and saucepans."
-
 [4] In China wine is almost invariably taken hot, according to Davis, in
 his work on the Chinese.
-
 [5] This and the following specimens of Chinese stories of simpletons
 are from "Contes et Bon Mots extraits d'un livre chinois intitule
 _Siao li Siao_, traduit par M. Stanislas Julien," (_Journal
 Asiatique_, tom. iv., 1824).
-
 [6] In another Arabian version, the man desires his wife to moisten some
 stale bread she has set before him for supper, and she refuses. After an
 altercation it is agreed that the one who speaks first shall get up and
@@ -2179,12 +1871,9 @@ the kazi, but even yet he says nothing; the kazi orders him to be
 hanged, and he is led off to execution, when the wife rushes up and
 cries out, "Oh, save my poor husband!" "You wretch," says the man, "go
 home and moisten the bread!"
-
 [7] Bang is a preparation of hemp and coarse opium.
-
 [8] From Mr. E.J.W. Gibb's translation of the _Forty Vazirs_
 (London: 1886).
-
 [9] Knowles' _Dictionary of Kashmiri Proverbs and Sayings_, pp.
 197-8. The article bought by the five men is called a _hir_, which
 Mr. Knowles says "is the head of any animal used for food," and a
@@ -2192,11 +1881,8 @@ _sheep's_ head were surely fitting food for such noodles. Mr.
 Knowles makes it appear that the whole affair of keeping silence was a
 mere jest, but we have before seen that it is decidedly meant for a
 noodle-story.
-
 [10] _The Orientalist_, 1884, p. 136.
-
 [11] Crane's _Italian Popular Tales_, pp. 284-5.
-
 [12] A separate work from the _Apologie pour Herodote_ Such was the
 exasperation of the French clerics at the bitter truths set forth in it,
 that the author had to flee the country. An English translation,
@@ -2205,14 +1891,8 @@ tovching the Conformitie of Ancient and Modern Wonders; or, a
 Preparative Treatise to the 'Apologie for Herodotus,'" etc., was
 published at London in 1607, folio, and at Edinburgh 1608, also folio.
 The _Apologie pour Herodote_ was printed at the Hague.
-
-
-
 CHAPTER V.
-
 THE SILLY SON.
-
-
 Among the favourite jests of all peoples, from Iceland to Japan, from
 India to England, are the droll adventures and mishaps of the silly son,
 who contrives to muddle everything he is set to do. In vain does his
@@ -2220,20 +1900,16 @@ poor mother try to direct him in "the way he should go": she gets him a
 wife, as a last resource; but a fool he is still, and a fool he will
 always be. His blunders and disasters are chronicled in penny chap-books
 and in nursery rhymes, of infinite variety. Who has not heard how
-
 Simple Simon went a-fishing
 For to catch a whale,
 But all the water he had got
 Was in his mother's pail?
-
 an adventure which recalls another nursery rhyme regarding Simon's still
 more celebrated prototypes:
-
 Three men of Gotham
 Went to sea in a bowl;
 If the bowl had been stronger,
 My tale had been longer.
-
 Then there is the prose history of _Simple Simon's Misfortunes; or,
 his Wife Marjory's Outrageous Cruelty_, which tells (1) of Simon's
 wedding, and how his wife Marjory scolded him for putting on his
@@ -2250,36 +1926,28 @@ going over the bridge, he let his money fall in the river: also how a
 ragman ran away with his clothes. No wonder if, after this crowning
 misfortune, poor Simon "drank a bottle of sack, to poison himself, as
 being weary of his life"!
-
 Again, we have _The Unfortunate Son; or, a Kind Wife is worth Gold,
 being full of Mirth and Pastime_, which commences thus:
-
 There was a man but one son had,
 And he was all his joy;
 But still his fortune was but bad,
 Though he was a pretty boy.
-
 His father sent him forth one day
 To feed a flock of sheep,
 And half of them were stole away
 While he lay down asleep!
-
 Next day he went with one Tom Goff
 To reap as he was seen,
 When he did cut his fingers off,
 The sickle was so keen!
-
 Another of the chap-book histories of noodles is that of _Simple John
 and his Twelve Misfortunes_, an imitation of _Simple Simon_; it
 was still popular amongst the rustics of Scotland fifty years ago.
-
 * * * * *
-
 The adventures of Silly Matt, the Norwegian counterpart of our typical
 English booby, as related in Asbjornson's collection of Norse
 folk-tales, furnish some curious examples of the transmission of popular
 fictions:
-
 The mother of Silly Matt tells him one day that he should build a bridge
 across the river and take toll of every one who wished to go over it; so
 he sets to work with a will, and when the bridge is finished, stands at
@@ -2334,14 +2002,12 @@ her instruction most literally: stealing into the sheepfold, he plucks
 out the eyes of all the sheep and goats, and puts them in his pocket.
 When he is seated beside his sweetheart, he casts a "sheep's eye" at
 her, which hits her on the nose.[1]
-
 This last incident, as we have seen, occurs in the _Tales of the Men
 of Gotham ("ante_, p. 41" in original. This section is to be found
 immediately after the reference to Chapter II, Footnote 9 in this
 e-text), and it is also found in a Venetian story (Bernoni,
 _Fiabe_, No. 11) entitled "The Fool," of which the following is the
 first part:
-
 Once upon a time there was a mother who had a son with little brains.
 One morning she said, "We must get up early, for we have to make bread."
 So they both rose early, and began to make bread. The mother made the
@@ -2360,7 +2026,6 @@ his mother. "Wait; wait. I will cast an eye at them too," he exclaimed,
 and went to the stable and cut out the eyes of all the animals, and
 putting them in a handkerchief, went to the church, and when any man or
 woman looked at him, he threw an eye at them.[2]
-
 Silly Matt has a brother in Russia, according to M. Leger's _Contes
 Populaires Slaves_, published at Paris in 1882: An old man and his
 wife had a son, who was about as great a noodle as could be. One day his
@@ -2405,7 +2070,6 @@ threw the water on the fire. This time also he was beaten, and when he
 got home, and told his mother of his ill-luck, she resolved never again
 to allow him to go abroad; so he remains by the fireside, as great a
 fool as ever.
-
 This species of noodle is also known in Japan. He is the hero of a
 farce entitled _Hone Kaha_, or Ribs and Skin, which has been done
 into English by Mr. Basil Hall Chamberlain, in his _Classical Poetry
@@ -2452,7 +2116,6 @@ curate, very complaisantly, upon which the man goes away, not knowing
 what to make of such a strange account of the rector's condition. This
 last affair puts the rector into a fury, and he cuffs his intended
 successor, exclaiming, "When was I ever frisky, I should like to know?"
-
 As great a jolterhead as any of the foregoing was the hero of a story
 in Cazotte's "Continuation" of the _Arabian Nights_, entitled
 "L'Imbecille; ou, L'Histoire de Xailoun,"[3] This noodle's wife said to
@@ -2560,11 +2223,9 @@ husband, fetched him a blow that caused him to crush all the
 half-hatched eggs. Luckily she had met the ass and her foal on the road,
 so the amount of mischief done by her stupid spouse in her absence was
 not so great, all things considered.[4]
-
 The misadventures of the Arabian idiot in his expedition to purchase
 pease present a close analogy to those of the typical English booby,
 only the latter end tragically:
-
 A woman sent her son one day to buy a sheep's head and pluck, and, lest
 he should forget his message, he kept bawling loudly as he went along,
 "Sheep's head and pluck! sheep's head and pluck!" In getting over a
@@ -2601,9 +2262,7 @@ bawling, "The one side gives good light, and I wish the other did!" at
 once concluded that he had set the house a-blazing; so they put him in
 prison, and the end was, the judge put on the black cap and condemned
 him to be hanged![5]
-
 * * * * *
-
 When the noodle is persuaded, as in the following case of a Sinhalese
 wittol, by a gang of thieves to join them in a plundering expedition,
 they have little reason to be pleased with him, for he does not make a
@@ -2619,7 +2278,6 @@ so he gently awoke a man who was sleeping in the room, and said to him,
 immediately guessed that thieves had entered the house, and gave the
 alarm. The thieves, who were waiting outside quite expectant, rushed
 away, and the noodle somehow or other managed to escape with them.
-
 Next night they again took him along with them, and after boring a hole
 in the wall of another house, sent him in with strict injunctions not to
 make a noise or wake anybody. He crept in noiselessly and entered a
@@ -2639,7 +2297,6 @@ the other inmates of the house, who came rushing to the spot to see what
 was the matter. This time also the noodle managed to escape with the
 thieves; but in a subsequent adventure he, as well as the thieves, came
 to grief.[8]
-
 The silly son of Italian popular tales is represented as being sent by
 his mother to sell a piece of linen which she had woven, saying to him,
 "Now listen attentively to what I say: Walk straight along the road.
@@ -2691,7 +2348,6 @@ philosophically; "you told me they were old rusty nails." By another
 lucky adventure, however, the booby is enabled to make up his mother's
 loss, finding a treasure which a party of robbers had left behind them
 at the foot of a tree.
-
 The incident of a simpleton selling something to an inanimate object and
 discovering a hidden treasure occurs, in different forms, in the
 folk-tales of Asiatic as well as European countries. In a manuscript
@@ -2699,7 +2355,6 @@ text of the _Arabian Nights_, brought from Constantinople by
 Wortley Montague, and now preserved in the Bodleian Library, Oxford, a
 more elaborate version of the Italian booby's adventure with the statue
 is found, in the "Story of the Bang-eater and his Wife:"
-
 In former times there lived not far from Baghdad a half-witted fellow,
 who was much addicted to the use of bang. Being reduced to poverty, he
 was obliged to sell his cow, which he took to the market one day, but
@@ -2738,7 +2393,6 @@ thy punctuality, good mother!" he exclaimed, and returned to his wife,
 to whom he gave the money, informing her at the same time of the great
 treasure his friend the imaginary old woman possessed, and where it was
 concealed.
-
 The wife waited till night, when she brought away the pot of gold, which
 her foolish husband observing, he said, "It is dishonest to rob one who
 has paid us so punctually; and if thou dost not return it to its place,
@@ -2756,7 +2410,6 @@ and seeing the food, was persuaded of the truth of his wife's story. The
 flesh and fish were gathered up, and he partook with much glee of the
 miraculous treat, but still said he would tell the wali of her having
 stolen the treasure of the honest old woman.
-
 In the morning he actually repaired to the wali, and informed him that
 his wife had stolen a pot of gold, which she had still in her
 possession. Upon this the wali had the woman apprehended. She denied the
@@ -2779,9 +2432,7 @@ flesh, to answer, "No; who ever saw it rain anything but water?" Then
 she informed the keeper that he was come to his senses, and suggested he
 should question him; and on the poor fellow answering properly he was
 released.
-
 * * * * *
-
 In a Russian variant, an old man had three sons, one of whom was a
 noodle. When the old man died, his property was shared between the
 brothers, but all that the simpleton received was one ox, which he took
@@ -2826,9 +2477,7 @@ head, and asks, "Was your diachok dark-haired?" "He was." "Had he a
 beard?" "Yes." "And horns?" "What horns are you talking of?" "Well, see
 for yourselves," said he, tossing up the head to them. They saw it was a
 goat's head, and went away home.
-
 * * * * *
-
 The reader cannot fail to remark the close resemblance there is between
 the first parts of the Arabian and Russian stories; and the second parts
 of both reappear in many tales of the Silly Son. The goat's carcase
@@ -2843,7 +2492,6 @@ Booby (figs and raisins); and in M. Leger's _Contes Populaires
 Slaves_, where, curiously enough, the trick is played by a husband
 upon his wife. It is perhaps worth while reproducing the Russian story
 from Leger, in a somewhat abridged form, as follows:
-
 In tilling the ground a labourer found a treasure, and carrying it home,
 said to his wife, "See! Heaven has sent us a fortune. But where can we
 conceal it?" She suggested he should bury it under the floor, which he
@@ -2888,7 +2536,6 @@ fine hare out of the river." My lord declared the woman to be an idiot;
 nevertheless he caused his servants to search under the labourer's
 cottage floor, but nothing was found there, and so the shrewd fellow
 secured his treasure.
-
 The silly son figures frequently in Indian story-books; sometimes a
 number of fools' exploits are strung together and ascribed to one
 individual, as in the tale of "Foolish Sachuli;" but generally they are
@@ -2908,19 +2555,16 @@ exclaimed the fool. "How do you know that?" the tailors inquired, when
 he told them what the man had said about a scarlet thread, at which they
 all laughed. Nevertheless, Sachuli went and dug a grave in the jungle
 and lay down in it.
-
 Presently a sepoy comes along, bearing a pot of _ghi_, or clarified
 butter, which he engages Sachuli to carry for him, and the noodle, of
 course, lets it fall in the midst of his calculations of the uses to
 which he should put the money he is promised by the sepoy.
-
 The incident of a blockhead cutting off the branch on which he is seated
 seems to be almost universal. It occurs in the jests of the typical
 Turkish noodle, the Khoja Nasr-ed-Din, and there exist German, Saxon,
 and Lithuanian variants of the same story. It is also known in Ceylon,
 and the following is a version from a Hindu work entitled _Bharataka
 Dwatrinsati_, Thirty-two Tales of Mendicant Monks:
-
 In Elakapura there lived several mendicant monks. One of them, named
 Dandaka, once went, in the rainy season, into a wood in order to procure
 a post for his hut. There he saw on a tree a fine branch bent down, and
@@ -2962,7 +2606,6 @@ was dead or alive, until at length, after a great deal of trouble, the
 bystanders succeeded in convincing them that the man was not dead and in
 inducing them to return to their dwelling. Dandaka also now stood up and
 went his way, after having been heartily laughed at by the people.[11]
-
 A diverting story in the _Facetiae_ of Poggius, entitled "Mortuus
 Loqueus," from which it was reproduced in the Italian novels of Grazzini
 and in our old collection _Tales and Quicke Answeres_, has a near
@@ -2970,7 +2613,6 @@ affinity with jests of this class, and also with the wide cycle of
 stories in which a number of rogues combine to cheat a simpleton out of
 his property. In the early English jest-book,[12] it is, in effect, as
 follows:
-
 There once dwelt in Florence a noodle called Nigniaca, upon whom a party
 of young men resolved to play a practical joke. Having arranged their
 plans, one of them met him early one morning, and asked him if he was
@@ -3001,7 +2643,6 @@ scoundrel, I were alive now, as I am dead, and I would prove thee a
 false liar to thy face;" upon which the jokers burst into laughter, set
 down the "body" and ran away--leaving Nigniaca to explain the whole
 affair to the marvelling multitude.[14]
-
 We read of another silly son, in the _Katha Manjari_, whose father
 said to him one day, "My boy, you are now grown big, yet you don't seem
 to have much sense. You must, however, do something for your living. Go,
@@ -3023,14 +2664,12 @@ a mosquito stinging my head, like the thrust of a spear--drive it off."
 "Wait a bit, father," said the boy, "and I will kill him with one blow."
 Then he took up an axe and stood behind his father's back; and thinking
 to kill the mosquito with the axe, he only killed his father.
-
 Among numerous variants is the story of the Sicilian booby, Giufa, who
 was annoyed by the flies, and complained of them to the judge, who told
 him that he was at liberty to kill a fly wherever he saw it: just then a
 fly happened to alight on the judge's nose, which Giufa observing, he
 immediately aimed at it so furious a blow with his fist, that he smashed
 his worship's nose!
-
 The hopelessness of attempting to impart instruction to the silly son is
 farther illustrated by the story in a Sinhalese collection: A guru was
 engaged in teaching one of his disciples, but whilst he was teaching the
@@ -3046,13 +2685,11 @@ and is waving aloft a firebrand. Among them all, he is the divinely
 excellent one." Whereupon the priest placed his finger on his nose, drew
 a deep, deep sigh, and said, "Is it indeed so? What, then, must the
 other three be?"
-
 The Turkish romance of the Forty Vazirs--the plan of which is similar to
 that of the Book of Sindibad and its derivatives--furnishes us with two
 stories of the same class, one of which is as follows, according to my
 friend Mr. Gibb's complete translation (the first that has been made in
 English), recently published:[15]
-
 They have told that in bygone times there was a king, and he had a
 skilful minstrel. One day a certain person gave to the latter a little
 boy, that he might teach him the science of music. The boy abode a long
@@ -3070,7 +2707,6 @@ turban and cast it on the ground, and saw that it was burning. He blew
 out the fire on this side and on that, and took it in his hand, and said
 to the boy, "What time for chanting is this? Everything is good in its
 own place," and he admonished him.[16]
-
 The other story tells how a king had a stupid son, and placed him in
 charge of a cunning master, learned in the sciences, who declared it
 would be easy for him to teach the boy discretion, and, before
@@ -3087,7 +2723,6 @@ hills.") "And it is a round thing," continues he--"it must be a
 millstone." "Blockhead!" exclaims the irate king, "could a millstone be
 hidden in a man's hand?" Then addressing the learned man, "Take him
 away," he says, "and _teach_ him."
-
 Lastly, we have a somewhat different specimen of the silly son in the
 doctor's apprentice, whose attempt to imitate his master was so
 ludicrously unsuccessful. He used to accompany his master on his visits
@@ -3116,16 +2751,11 @@ I did as you did the other day, when we visited the old farmer--I drew
 an inference." "You drew an inference, did you? And how did you draw the
 inference that the man had eaten a horse?" "Why, very readily, sir; for
 as I entered the house I saw a saddle hanging on the wall."[17]
-
-
 FOOTNOTES:
-
 [1] Abridged from the story of "Silly Matt" in Sir George W. Dasent's
 _Tales from the Fjeld_.
-
 [2] Professor Crane's _Italian Popular Tales_, p. 302. This actual
 throwing of eyes occurs in the folk-tales of Europe generally.
-
 [3] In _Le Cabinet des Fees, 1788_ (tome xxxviii., p. 337 ff.).--
 There can be no such name as Xailoun in Arabic; that of the noodle's
 wife, Oitba, may be intended for "Utba." Cazotte has so Frenchified the
@@ -3134,7 +2764,6 @@ with the Arabic originals (where he had any such) often impossible.
 Although this story is not found in any known Arabian text of the
 _Book of the Thousand and One Nights_, yet the incidents for the
 most part occur in several Eastern story-books.
-
 [4] On a similar occasion Giufa, the Sicilian brother to the Arabian
 fool, did somewhat more mischief. Once his mother went to church and
 told him to make some porridge for his baby-sister. Giufa made a great
@@ -3144,31 +2773,22 @@ hen that was sitting and put her back in the nest, so that the eggs
 should not get cold. Giufa stuffed the hen with food so that he killed
 her, and then sat on the eggs himself until his mother returned.--See
 Crane's _Italian Popular Tales_, pp. 296-7.
-
 [5] Abridged and modified from a version in the _Folk-Lore Record_,
 vol. iii., pp. 153-5.
-
 [6] The usual mode by which in the East thieves break into houses, which
 are for the most part constructed of clay. See Job xxiv. 16.
-
 [7] Kurakkan is a species of grain.
-
 [8] _The Orientalist_, June, 1884, pp. 137-8.
-
 [9] Ummu Sulayman. In Arabia the mother is generally addressed in this
 way as a mark of respect for having borne children, and the eldest gives
 the title. Our bang-eater supposed he was addressing an old woman who
 had (or might have had) a son named Solomon.
-
 [10] See Ralston's _Russian Folk-Tales._ [Transcriber's note:
 Footnote reference missing from original, p. 153]
-
 [11] From a paper on "Comparative Folk-lore," by W. Goonetilleke, in
 _The Orientalist_, i., p. 122.
-
 [12] _Mery Tales, Wittie Questions, and Quicke Answeres, very pleasant
 to be Readde._ Imprinted at London by H. Wykes, 1567.
-
 [13] Thus, too, Scogin and his "chamber-fellow" successively declared to
 a rustic that the sheep he was driving were pigs. In Fortini's novels,
 in like manner, a simpleton is persuaded that the kid he offered for
@@ -3182,7 +2802,6 @@ the _Gesta Romanorum_, in which the emperor's physician is made to
 believe that he had leprosy. See my _Popular Tales and Fictions_,
 where these and similar stories are compared in a paper entitled "The
 Sharpers and the Simpleton."
-
 [14] In Powell and Magnusson's _Legends of Iceland_ (Second Series,
 p. 627), a woman makes her husband believe that he is dressed in fine
 clothes when he is naked; another persuades her husband that he is dead,
@@ -3194,14 +2813,11 @@ son Mari qu'il etait mort," the husband exclaims, "Rascal of a priest,
 you may well thank Heaven that I am dead, else I would belabour you
 soundly with my stick."--See M. Le Grand's _Fabliaux_, ed. 1781,
 tome v., pp. 192, 193.
-
 [5] _History of the Forty Viziers; or, The Forty Morns and Forty
 Eves._ Translated from the Turkish, by E.J.W. Gibb, M.R.A.S. London:
 G. Redway, 1886.
-
 [16] A variant of this is found in John Bromyard's _Summa
 Praedicantium_, A 26, 34, as follows:
-
 Quidam sedebat juxta igneum, cujus vestem ignis intrabat. Dixit socius
 suus, "Vis audire rumores?" "Ita," inquit, "bonos et non alios." Cui
 alius, "Nescio nisi malos." "Ergo," inquit, "nolo audire." Et quum bis
@@ -3209,19 +2825,12 @@ aut ter ei hoc diceret, semper idem respondit. In fine, quum sentiret
 vestem combustam, iratus ait socio, "Quare non dixisti mihi?" "Quia
 (inquit) dixista quod noluisti audire rumores nisi placentes et illi non
 erant tales."
-
 [17] Under the title of "The Phisitian that bare his Paciente in honde
 that he had eaten an Asse" this jest occurs in _Merry Tales and Quicke
 Answeres_, and Professor Crane gives a Sicilian version in his
 _Italian Popular Tales_.
-
-
-
 CHAPTER VI.
-
 THE FOUR SIMPLE BRAHMANS.
-
-
 [As a sort of supplement to the sayings and doings of the silly son, the
 following highly diverting Indian tale is here inserted, from the Abbe
 Dubois' French rendering of the Tamil original, appended, with others,
@@ -3230,10 +2839,7 @@ the north as well as in the south of India: in the Panjabi version there
 are, however, but three noodle-heroes. It will be seen that the third
 Brahman's tale is another of the numerous silent couple class, and it
 may possibly be the original form.]
-
-
 _Introduction._
-
 In a certain district, proclamation had been made of a Samaradanam being
 about to be held.[1] Four Brahmans, from different villages, going
 thither, fell in upon the road, and, finding that they were all upon the
@@ -3251,7 +2857,6 @@ me." "You are both mistaken," says a third; "for you may remember that
 when the soldier said, '_Dandamarya!_' he cast his eyes upon me."
 "Not at all," replied the fourth; "it was I only he saluted; otherwise,
 should I have answered him as I did, by saying, '_Asirvadam_'?"
-
 Each maintained his argument obstinately; and as none of them would
 yield, the dispute had nearly come to blows, when the least stupid of
 the four, seeing what was likely to happen, put an end to the brawl by
@@ -3263,7 +2868,6 @@ The fittest person to determine the controversy, I think, would be the
 man who occasioned it. The soldier, who chose to salute one of us,
 cannot yet be far off: let us therefore run after him as quickly as we
 can, and we shall soon know for which of us he intended his salutation."
-
 This advice appeared wise to them all, and was immediately adopted. The
 whole of them set off in pursuit of the soldier, and at last overtook
 him, after running a league, and all out of breath. As soon as they came
@@ -3275,7 +2879,6 @@ the character of the people he had to do with, and being willing to
 amuse himself a little at their expense, coolly replied, that he
 intended his salutation for the greatest fool of all four, and then,
 turning on his heel, he continued his journey.
-
 The Brahmans, confounded at this answer, turned back in silence. But all
 of them had deeply at heart the distinction of the salutation of the
 soldier, and the dispute was gradually renewed. Even the awkward
@@ -3291,7 +2894,6 @@ the decision of the question? Let us, therefore, have a little patience.
 We are within a short distance of Dharmapuri, where there is a choultry,
 at which all little causes are tried by the heads of the village; and
 let ours be judged among the rest."
-
 The others agreed in the soundness of this advice; and having arrived at
 the village, they eagerly entered the choultry, to have their business
 settled by the arbitrator. They could not have come at a better season.
@@ -3316,9 +2918,7 @@ clearly showed that there could be no other means of determining to
 which of them the salutation of the soldier could with justice be
 awarded. The Brahmans assented, and upon a sign being made to one of
 them to begin, and the rest to keep silence, the first thus spoke:
-
 _Story of the First Brahman_.
-
 I am poorly provided with clothing, as you see; and it is not to-day
 only that I have been covered with rags. A rich and very charitable
 Brahman merchant once made a present of two pieces of cloth to attire
@@ -3346,7 +2946,6 @@ me that the point of the dog's tail must have done so too, and that my
 garments were therefore polluted. In my rage I pulled down the beautiful
 raiment, and tore it in a thousand pieces, loading with curses both the
 dog and his master.
-
 When this foolish act was known, I became the laughing-stock of all the
 world, and I was universally treated as a madman. "Even if the dog had
 touched the cloth," said they, "and so brought defilement upon it, might
@@ -3356,7 +2955,6 @@ pieces? After such egregious folly, who will give you clothes another
 time?" This was all true; for ever since, when I have begged clothing of
 any one, the constant answer has been, that, no doubt, I wanted a piece
 of cloth to pull to pieces.
-
 He was going on, when a bystander interrupted him by remarking that he
 seemed to understand going on all-fours. "Exceedingly well," said he,
 "as you shall see;" and off he shuffled, in that posture, amidst the
@@ -3367,9 +2965,7 @@ proof of his stupidity." The second accordingly began by expressing his
 confidence that if what they had just heard appeared to them to be
 deserving of the salutation of the soldier, what he had to say would
 change their opinion.
-
 _Story of the Second Brahman_.
-
 Having got my hair and beard shaven one day, in order to appear decent
 at a public festival of the Brahmans, which had been proclaimed
 throughout the district, I desired my wife to give the barber a penny
@@ -3389,7 +2985,6 @@ pouring down curses on me and the barber. He took his departure, and
 meeting my mother in his way, told her what he had done, which made her
 hasten to the house, to inquire into the outrage; and when she saw that
 it was all true she also loaded me with incivilities.
-
 The barber published everywhere what had happened at our house; and the
 villain added to the story that I had caught her with another man, which
 was the cause of my having her shaved; and people were no doubt
@@ -3404,7 +2999,6 @@ reason, they reproached me most bitterly; which I patiently endured,
 being conscious that I was in the wrong. They persisted, however, in
 taking her with them, and keeping her carefully concealed from every eye
 for four whole years; when at length they restored her to me.
-
 This little accident made me lose the Samaradanam, for which I had been
 preparing by a fast of three days; and it was a great mortification to
 me to be excluded from it, as I understood it was a most splendid
@@ -3413,7 +3007,6 @@ afterwards, at which I expected to make up for my loss. But I was
 received with the hisses of six hundred Brahmans, who seized my person,
 and insisted on my giving up the accomplice of my wife, that he might be
 prosecuted and punished, according to the severe rules of the caste.
-
 I solemnly attested her innocence, and told the real cause of the
 shaving of her hair; when a universal burst of surprise took place,
 every one exclaiming, how monstrous it was that a married woman should

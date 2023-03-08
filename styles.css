@@ -82,13 +82,14 @@ body {
   width: 50px;
 }
 
+.contains {
+  background-color: goldenrod;
+}
+
 .match {
   background-color: green;
 }
 
-.contains {
-  background-color: goldenrod;
-}
 
 .not-contains {
   background-color: rgb(27, 26, 26);
@@ -147,4 +148,3 @@ body {
   .flip-not {
     animation: flip-not 500ms ease forwards;
   }
-
