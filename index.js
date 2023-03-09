@@ -6,13 +6,12 @@ let attemptCount = 1;
 let letterCount = 0;
 let valid = false;
 let attemptArr = [];
-const possWords = unique;
 
 //pulls random word from array of possible words filtered from book texts
-function getWord(possWords) {
+function getWord() {
   let number = Math.floor(Math.random() * 928);
   puzzleWord = unique[number].toUpperCase().split("");
-  console.log(puzzleWord)
+  
 }
 
 function buildBoard() {
@@ -74,7 +73,7 @@ function checkWin() {
   } else if (attemptCount >= 7) {
     alert(`Loser! Secret word was ${puzzleWord.join("")}`);
     resets();
-  } 
+  }
 }
 
 function resets() {
@@ -91,21 +90,29 @@ function resets() {
 
 //compares attempt with puzzleWord. Adds css properties based on matches and contains
 function compare() {
+  //makes clone of puzzle word to be manipualted for multiple letter occurence checks
+  let compareArr = [...puzzleWord];
   attemptArr.map((ele, index) => {
-    //check for contains and placement match
-    if (puzzleWord[index] == ele) {
+    //check for contains and placement match first. Removes match from compare
+    if (compareArr[index] == ele) {
       document
         .querySelector(`.ls${attemptCount}-${index + 1}`)
         .classList.add("flip-match");
       document.querySelector(`#${ele}`).classList.add(`match`);
-      //check for contains
-    } else if (puzzleWord.includes(ele)) {
+      compareArr[index] = "-";
+    }
+  });
+  //checks for include values, removing occurences to catch if letter only occurs 'x' number of times
+  attemptArr.map((ele, index) => {
+    if (compareArr.includes(ele)) {
       document
         .querySelector(`.ls${attemptCount}-${index + 1}`)
         .classList.add("flip-contains");
       document.querySelector(`#${ele}`).classList.add(`contains`);
-      //markes keyboard letters used and not in the word
-    } else if (!puzzleWord.includes(ele)) {
+      compareArr[compareArr.indexOf(ele)] = "-";
+    }
+    //marks keyboard letters used and not in the word using unaltered puzzleWord
+    else if (!puzzleWord.includes(ele)) {
       document
         .querySelector(`.ls${attemptCount}-${index + 1}`)
         .classList.add("flip-not");

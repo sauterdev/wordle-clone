@@ -3019,17 +3019,19 @@ render of body-clothing.`;
 
 //uses book text files to compile array of unique 5 letter words
 partOne = partOne.replace(/\W/g, " ");
-partOne = partOne.replace(/\_/g, " ")
- let parsed = partOne.split(" ");
+partOne = partOne.replace(/\_/g, " ");
+let parsed = partOne.split(" ");
 let fiveLetter = [];
- parsed.forEach((ele) => {
-    if(ele.length === 5) {
-        fiveLetter.push(ele);
-    }
-})
+parsed.forEach((ele) => {
+  if (ele.length === 5) {
+    fiveLetter.push(ele);
+  }
+});
 
 function onlyUnique(value, index, array) {
-    return array.indexOf(value) === index;
-  }
-  
-  export let unique = fiveLetter.filter(onlyUnique);
+  return array.indexOf(value) === index;
+}
+
+let unique = fiveLetter.filter(onlyUnique);
+
+export { unique };
