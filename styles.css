@@ -76,6 +76,10 @@ body {
   border-radius: 5px;
 }
 
+.key-button:hover {
+  cursor: pointer;
+}
+
 #ENTER,
 #BACK {
   font-size: smaller;
